@@ -1,0 +1,12 @@
+.bag{
+  background: #82ef87;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 10px;
+}
+.wish{
+  padding: 5px 45px;
+  border: solid black;
+  border-radius: 8px;
+  text-transform: uppercase;
+}
